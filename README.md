@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### My name is Nyirurugo Omar i'm Software developer .Iam passion in doing Frontend development mostly.  I am full hooked into Javascript, Reactjs,Nextjs and I use it in my daily projects.
+#### A Full-Stack Engineer 🧑‍💻 Dedicated to crafting accessible Web and Mobile solutions, Based in Kigali - Rwanda 🇷🇼 the heart of Africa.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
